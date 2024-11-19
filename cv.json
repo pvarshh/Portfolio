@@ -5,8 +5,8 @@
     "image": "/me_avatar.jpg",
     "email": "pvarsh@umich.edu",
     "phone": "+1 636-675-0940",
-    "url": "https://johndoe.dev",
-    "summary": "Passionate about the intersection between numbers and technology, specifically in ML, Trading, Networks and Distributed Systems. Curious about Astronomy, Law and Psychology as well..",
+    "url": "https://portfolio-pvarshhs-projects.vercel.app/",
+    "summary": "Passionate about the intersection between numbers and technology, specifically in ML, Trading, Networks and Distributed Systems. Curious about Astronomy, Law and Psychology as well.",
     "theme": "default",
     "location": {
       "address": "1929 Plymouth Rd",
@@ -178,69 +178,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Hindi",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "Machine Learning",
-        "Algorithmic Trading",
-        "Distributed Systems",
-        "Networks",
-        "Operating Systems"
-      ]
-    },
-    {
-      "name": "Astronomy",
-      "keywords": [
-        "Astrophotography",
-        "Cosmology",
-        "Space Exploration",
-        "Astrobiology",
-        "Planetary Science"
-      ]
-    },
-    {
-      "name": "Law",
-      "keywords": [
-        "Technology",
-        "Homocide",
-        "Intellectual Property"
-      ]
-    },
-    {
-      "name": "Psychology",
-      "keywords": [
-        "Cognitive",
-        "Social",
-        "Neuroscience",
-        "Development",
-        "Linguisitic"
-      ]
-    },
-    {
-      "name": "Sports",
-      "keywords": [
-        "Tennis",
-        "Cricket",
-        "Table Tennis",
-        "Chess"
-      ]
-    }
-  ],
   "projects": [
     {
       "name": "Personal Portfolio",
@@ -249,15 +186,16 @@
       "highlights": [
         "Built with AstroJS and Tailwind CSS"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://portfolio-pvarshhs-projects.vercel.app/",
+      "github": "https://github.com/pvarshh/Portfolio"
     },
     {
-      "name": "SD-WAN Analytics (Cisco's HackAIthon)",
+      "name": "SD-WAN Analytics",
       "isActive": true,
       "description": "Anomaly detection in Tunnel KPIs which provides insights into network behavior.",
       "highlights": [
-        "Analyze and explain Anomaly Reason using AI..",
+        "Runner-up for best project at Cisco's HackAIthon 2024",
+        "Analyze and explain Anomalies accross  using AI.",
         "Forecast Future Problems for Proactive Remediation."
       ]
     },
