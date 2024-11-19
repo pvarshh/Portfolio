@@ -1,0 +1,281 @@
+{
+  "basics": {
+    "name": "Pranav Varshney",
+    "label": "Third Year CompSci and Stats Student",
+    "image": "/me_avatar.jpg",
+    "email": "pvarsh@umich.edu",
+    "phone": "+1 636-675-0940",
+    "url": "https://johndoe.dev",
+    "summary": "Passionate about the intersection between numbers and technology, specifically in ML, Trading, Networks and Distributed Systems. Curious about Astronomy, Law and Psychology as well..",
+    "theme": "default",
+    "location": {
+      "address": "1929 Plymouth Rd",
+      "postalCode": "48105",
+      "city": "Ann Arbor",
+      "countryCode": "US",
+      "region": "Michigan"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pvarshh",
+        "url": "https://linkedin.com/in/pvarshh"
+      },
+      {
+        "network": "GitHub",
+        "username": "pvarshh",
+        "url": "https://github.com/pvarshh"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Panthera AI",
+      "position": "Incoming Quantitative Developer Intern",
+      "location_type": "Remote",
+      "location": "New York City, New York",
+      "url": "https://pnta.ai/",
+      "startDate": "5/25",
+      "endDate": "8/25",
+      "responsibilities": [
+        "Shhh, its a secret!"
+      ]
+    },
+    {
+      "name": "The University of Michigan",
+      "position": "COMPFOR 131 Instructional Assistant",
+      "location_type": "On site",
+      "location": "Ann Arbor, Michigan",
+      "url": "https://lsa.umich.edu/computingfor/",
+      "startDate": "8/24",
+      "endDate": "Current",
+      "responsibilities": [
+        "TODO"
+      ]
+    },
+    {
+      "name": "United Wholesale Mortgage",
+      "position": "Software Engineer Intern",
+      "location_type": "On site",
+      "location": "Pontiac, Michigan",
+      "url": "https://www.uwm.com/",
+      "startDate": "5/24",
+      "endDate": "8/24",
+      "responsibilities": [
+        "TODO"
+      ]
+    },
+    {
+      "name": "Outlier AI",
+      "position": "Data Science Intern",
+      "location_type": "Remote",
+      "location": "San Francisco, California",
+      "url": "https://outlier.ai/",
+      "startDate": "1/24",
+      "endDate": "5/24",
+      "responsibilities": [
+        "TODO"
+      ]
+    },
+    {
+      "name": "The Michigan Daily",
+      "position": "Web Developer",
+      "location_type": "On site",
+      "location": "Ann Arbor, Michigan",
+      "url": "https://www.michigandaily.com/",
+      "startDate": "10/23",
+      "endDate": "4/24",
+      "responsibilities": [
+        "TODO"
+      ]
+    },
+    {
+      "name": "Ratna Global Technologies",
+      "position": "Software Engineer Intern",
+      "location_type": "Remote",
+      "location": "Newark, California",
+      "url": "https://www.ratnaglobaltech.com/",
+      "startDate": "6/23",
+      "endDate": "9/23",
+      "responsibilities": [
+        "TODO"
+      ]
+    },
+    {
+      "name": "Kumon North America Inc.",
+      "position": "Academic Tutor",
+      "location_type": "On site",
+      "location": "Chesterfield, Missouri",
+      "url": "https://www.kumon.com/chesterfield-central/",
+      "startDate": "5/19",
+      "endDate": "6/22",
+      "responsibilities": [
+        "TODO"
+      ]
+    }
+  ],
+  "research": [
+    {
+      "name": "The Big-DIG Laboratory",
+      "position": "Research Assistant",
+      "location_type": "On site",
+      "location": "Ann Arbor, Michigan",
+      "startDate": "4/23",
+      "endDate": "6/23",
+      "responsibilities": [
+        "TODO"
+      ]
+    },
+    {
+      "name": "The London Business School",
+      "position": "Research Assistant",
+      "location_type": "Remote",
+      "location": "London, England",
+      "startDate": "1/23",
+      "endDate": "4/23",
+      "responsibilities": [
+        "TODO"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Michigan",
+      "url": "https://umich.edu/",
+      "area": "Computer Science, Statistics",
+      "studyType": "Bachelor of Science",
+      "startDate": "08/2022",
+      "endDate": "05/2026",
+      "courses": [
+        "COMPFOR 130 - Python Programming",
+        "PHIL 340 - AI Ethics",
+        "EECS 183 - Inro to CS",
+        "EECS 201 - Linux Programming",
+        "EECS 203 - Discrete Math",
+        "EECS 280 - C++ Programming",
+        "EECS 281 - Data Structions + Algorithms",
+        "EECS 376 - Theory of Computation",
+        "STATS 250 - Intro to Statistics",
+        "STATS 306 - Computational Statistics",
+        "MATH 115 - Calculus I",
+        "MATH 116 - Calculus II",
+        "MATH 201 - Proofs I",
+        "MATH 289 - Proofs II"
+
+      ],
+      "current":[
+        "EECS 370 - Computer Organization",
+        "EECS 484 - Database Management",
+        "EECS 485 - Web Systems",
+        "STATS 425 - Probability"
+
+      ],
+      "planned": [
+        "EECS 482 + 498: Advanced OS",
+        "EECS 487: NLP",
+        "EECS 489: Computer Networks",
+        "STATS 315: Deep Learning w/ TensorFlow"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Machine Learning",
+        "Algorithmic Trading",
+        "Distributed Systems",
+        "Networks",
+        "Operating Systems"
+      ]
+    },
+    {
+      "name": "Astronomy",
+      "keywords": [
+        "Astrophotography",
+        "Cosmology",
+        "Space Exploration",
+        "Astrobiology",
+        "Planetary Science"
+      ]
+    },
+    {
+      "name": "Law",
+      "keywords": [
+        "Technology",
+        "Homocide",
+        "Intellectual Property"
+      ]
+    },
+    {
+      "name": "Psychology",
+      "keywords": [
+        "Cognitive",
+        "Social",
+        "Neuroscience",
+        "Development",
+        "Linguisitic"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Tennis",
+        "Cricket",
+        "Table Tennis",
+        "Chess"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "isActive": true,
+      "description": "A personal portfolio website to showcase my projects and skills..",
+      "highlights": [
+        "Built with AstroJS and Tailwind CSS"
+      ],
+      "url": "https://johndoe.dev",
+      "github": "https://github.com"
+    },
+    {
+      "name": "SD-WAN Analytics (Cisco's HackAIthon)",
+      "isActive": true,
+      "description": "Anomaly detection in Tunnel KPIs which provides insights into network behavior.",
+      "highlights": [
+        "Analyze and explain Anomaly Reason using AI..",
+        "Forecast Future Problems for Proactive Remediation."
+      ]
+    },
+    {
+      "name": "ChessNav",
+      "isActive": true,
+      "description": "Custom chess evaluation bot using 3 criteria to evaluate a position with 88% accuracy.",
+      "highlights": [
+        "TODO"
+      ]
+    },
+    {
+      "name": "GlassNav",
+      "isActive": false,
+      "description": "Custom smart glasses with image, video and audio capturing features.",
+      "highlights": [
+        "TODO"
+      ]
+    }
+  ]
+}
