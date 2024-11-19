@@ -178,6 +178,7 @@
       ]
     }
   ],
+
   "projects": [
     {
       "name": "Personal Portfolio",
@@ -195,7 +196,7 @@
       "description": "Anomaly detection in Tunnel KPIs which provides insights into network behavior.",
       "highlights": [
         "Runner-up for best project at Cisco's HackAIthon 2024",
-        "Analyze and explain Anomalies accross  using AI.",
+        "Analyze and explain anomalies across Tunnel KPIs using GenAI and LLMs.",
         "Forecast Future Problems for Proactive Remediation."
       ]
     },
