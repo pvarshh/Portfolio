@@ -1,40 +1,6 @@
 ---
 import Section from "../Section.astro"
 import { research } from "@cv"
-
-import HTML from "@/icons/html.astro"
-import CSS from "@/icons/css.astro"
-import JavaScript from "@/icons/javascript.astro"
-import TypeScript from "@/icons/type.astro"
-import React from "@/icons/react.astro"
-import Node from "@/icons/node.astro"
-import MySQL from "@/icons/sql.astro"
-import Git from "@/icons/git.astro"
-import GitHub from "@/icons/GitHub.astro"
-import Tailwind from "@/icons/tailwind.astro"
-import Next from "@/icons/next.astro"
-import Swift from "@/icons/swift.astro"
-import SwiftUI from "@/icons/swiftui.astro"
-import Kotlin from "@/icons/kotlin.astro"
-import Flutter from "@/icons/flutter.astro"
-
-const SKILLS_ICONS: Record<string, any> = {
-  HTML,
-  CSS,
-  JavaScript,
-  TypeScript,
-  React,
-  Node,
-  MySQL,
-  Git,
-  GitHub,
-  Next,
-  Tailwind,
-  Swift,
-  SwiftUI,
-  Kotlin,
-  Flutter,
-}
 ---
 <Section className={Astro.props.className} title="Research Experience">
   <ul class="flex flex-col">
@@ -50,7 +16,13 @@ const SKILLS_ICONS: Record<string, any> = {
             </header>
             <div class="relative flex flex-col pb-6 print:pb-0 before:-ml-6 sm:col-span-10 before:w-px print:before:hidden before:absolute before:bg-skin-muted before:h-full before:mt-2">
             <div class="absolute w-2 h-2 bg-skin-muted rounded-full mt-2 -translate-x-[1.71rem] ring print:hidden ring-skin-fill"></div>
-              
+              <h3>
+                <div class="inline-flex items-center text-lg print:text-base leading-tight group/link focus-visible:text-amber-500" aria-label="{position} - {company}">
+                  <span>{position} <span>@</span> 
+                    <span>{name}</span>
+                  </span>
+                </div>
+              </h3>
               {(location || location_type) && (
                 <div class="text-xs text-skin-muted">
                   {location} {location && location_type && '-'} {location_type}
