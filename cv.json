@@ -162,34 +162,99 @@
       "startDate": "08/2022",
       "endDate": "05/2026",
       "courses": [
-        "COMPFOR 130 - Python Programming",
-        "PHIL 340 - AI Ethics",
-        "EECS 183 - Inro to CS",
-        "EECS 201 - Linux Programming",
-        "EECS 203 - Discrete Math",
-        "EECS 280 - C++ Programming",
-        "EECS 281 - Data Structions + Algorithms",
-        "EECS 376 - Theory of Computation",
-        "STATS 250 - Intro to Statistics",
-        "STATS 306 - Computational Statistics",
-        "MATH 115 - Calculus I",
-        "MATH 116 - Calculus II",
-        "MATH 201 - Proofs I",
-        "MATH 289 - Proofs II"
-
+        {
+          "name": "COMPFOR 130 - Python Programming",
+          "url": null
+        },
+        {
+          "name": "PHIL 340 - AI Ethics",
+          "url": null
+        },
+        {
+          "name": "EECS 183 - Inro to CS",
+          "url": "https://eecs183.github.io/eecs183.org/"
+        },
+        {
+          "name": "EECS 201 - Linux Programming",
+          "url": "https://www.eecs.umich.edu/courses/eecs201/"
+        },
+        {
+          "name": "EECS 203 - Discrete Math",
+          "url": null
+        },
+        {
+          "name": "EECS 280 - C++ Programming",
+          "url": "https://eecs280.org/"
+        },
+        {
+          "name": "EECS 281 - Data Structions + Algorithms",
+          "url": "https://eecs281staff.github.io/eecs281.org/"
+        },
+        {
+          "name": "EECS 376 - Theory of Computation",
+          "url": "https://eecs376.org/"
+        },
+        {
+          "name": "STATS 250 - Intro to Statistics",
+          "url": null
+        },
+        {
+          "name": "STATS 306 - Computational Statistics",
+          "url": null
+        },
+        {
+          "name": "MATH 115 - Calculus I",
+          "url": null
+        },
+        {
+          "name": "MATH 116 - Calculus II",
+          "url": null
+        },
+        {
+          "name": "MATH 201 - Proofs I",
+          "url": null
+        },
+        {
+          "name": "MATH 289 - Proofs II",
+          "url": null
+        }
       ],
       "current":[
-        "EECS 370 - Computer Organization",
-        "EECS 484 - DBMS",
-        "EECS 485 - Web Systems",
-        "STATS 425 - Probability"
+        {
+          "name": "EECS 370 - Computer Organization",
+          "url": "https://eecs370.github.io/"
+        },
+        {
+          "name": "EECS 484 - DBMS",
+          "url": null
+        },
+        {
+          "name": "EECS 485 - Web Systems",
+          "url": "https://eecs485.org/"
+        },
+        {
+          "name": "STATS 425 - Probability",
+          "url": null
+        }
 
       ],
       "planned": [
-        "EECS 482 + 498: Advanced OS",
-        "EECS 487: NLP",
-        "EECS 489: Computer Networks",
-        "STATS 315: Deep Learning w/ TensorFlow"
+        {
+          "name": "EECS 398: Applied DS + ML",
+          "url": "https://practicaldsc.org/"
+        },
+        {
+          "name": "EECS 482 + 498: Advanced OS",
+          "url": null
+        },
+        {
+          "name": "EECS 489: Computer Networks",
+          "url": "http://www.eecs489.org/"
+        },
+        {
+          "name": "STATS 315: Deep Learning w/ TensorFlow",
+          "url": null
+        }
       ]
     }
   ],
