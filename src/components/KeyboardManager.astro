@@ -113,9 +113,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
 			section: "Actions",
 			handler: () => {
 				const resumeUrl = "public/resume.pdf"; // Replace with the actual URL or relative path to your resume file
-				const newWindow = window.open(resumeUrl, "_blank");
-				if (newWindow === null) { console.log("oops, resume is not currently available")}
-				else { newWindow.onload = () => newWindow.print(); }
+				window.open(resumeUrl, "_blank");
 			},
 		},
 		...data,

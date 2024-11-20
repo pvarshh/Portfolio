@@ -50,7 +50,8 @@
       "startDate": "8/24",
       "endDate": "Current",
       "responsibilities": [
-        "TODO"
+        "Overhauled the course's Python curriculum, adding 3 new projects and 2 new lectures to the course, increasing student engagement by 20%",
+        "Developed a Python script to automate assignment grading, reducing grading time by 99%"
       ]
     },
     {
@@ -62,7 +63,11 @@
       "startDate": "5/24",
       "endDate": "8/24",
       "responsibilities": [
-        "TODO"
+        "Piloted a change insights data pipeline in C# and SQL to populate UWM's data lake",
+        "Analyed and visualized data from the data lake to identify trends and insights",
+        "Reengineered UWM's archaic database organization to reduce data redundancy, pushing Google Cloud migration on an accelerated timeline",
+        "Launched a CRUD dashboard to monitor GCP costs and usage, flagging overuse and mainting proper data handling etiquette",
+        "Initialized a decision tree model in Python with the Risk and Finance teams to classify written loans as success or failures, savign $20,000 in Q3 costs"
       ]
     },
     {
@@ -74,7 +79,10 @@
       "startDate": "1/24",
       "endDate": "5/24",
       "responsibilities": [
-        "TODO"
+        "Maintained scalable data pipelines in Python and SQL to support user analytics",
+        "Performed macro optimizations on the data pipeline to reduce runtime by 30%",
+        "Constructed visual aids in Python, R and PowerBI, highligthing trends in common search queries, improving the search algorimth based on the page rank principle (need work)", 
+        "Documented company's data models and ETL processes for investors, clarifying technical details and design decisions for new business strategies"
       ]
     },
     {
@@ -86,7 +94,9 @@
       "startDate": "10/23",
       "endDate": "4/24",
       "responsibilities": [
-        "TODO"
+        "Lead the error handling and debugging processes for the website, fixing over 75 wesite errors, typos and other broken components to make user experience more enjoyable",
+        "Optimized website performancy by 44%, reducing page redircts and http requests, raising engagement length by 10%",
+        "Provided a framework for catching and fixing errors in the future, guiding new team members during onboarding"
       ]
     },
     {
@@ -98,7 +108,9 @@
       "startDate": "6/23",
       "endDate": "9/23",
       "responsibilities": [
-        "TODO"
+        "Spearheaded the development of a car rental website for clients, using React and Node to build a responsive, user-friendly and scalable platform",
+        "Built a custom chatbot using OpenAI's GPT-3 to answer customer queries, automating naive customer support tasks and saving 5-10 hours of work per week",
+        "Designed a database schema in PostgreSQL to store user data, reducing data redundancy and improving data retrieval times by 20%"
       ]
     },
     {
@@ -110,7 +122,8 @@
       "startDate": "5/19",
       "endDate": "6/22",
       "responsibilities": [
-        "TODO"
+        "Taught students complex math concpets like calculus I, II and basic statistics, helping them succeed in school subjects and standardized tests",
+        "Revamped the grading system for the center, leveraging technology to automate progress tracking and develop personalized feedback for students struggling in subjects"
       ]
     }
   ],
@@ -123,7 +136,8 @@
       "startDate": "4/23",
       "endDate": "6/23",
       "responsibilities": [
-        "TODO"
+        "Exployed a custom school sorting function in Python to classify over 75- schools based on an array of criteras, guiding lab to conclude in 2 months instead of 6",
+        "Demonstrated a 99.5% statistical significance test through summplemental simmulations and visual aids in Python and R"
       ]
     },
     {
@@ -134,7 +148,8 @@
       "startDate": "1/23",
       "endDate": "4/23",
       "responsibilities": [
-        "TODO"
+        "Leveraged Python to pipe data from 500 contracts in a mimicked SQL database, optimizing data extraction and transformation by over 25%",
+        "Determined 90% confidence in distinct differences between the structors of internal contracts and external constracts using R and Python"
       ]
     }
   ],
@@ -183,7 +198,7 @@
     {
       "name": "Personal Portfolio",
       "isActive": true,
-      "description": "A personal portfolio website to showcase my projects and skills..",
+      "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
         "Built with AstroJS and Tailwind CSS"
       ],
@@ -192,7 +207,7 @@
     },
     {
       "name": "SD-WAN Analytics",
-      "isActive": true,
+      "isActive": false,
       "description": "Anomaly detection in Tunnel KPIs which provides insights into network behavior.",
       "highlights": [
         "Runner-up for best project at Cisco's HackAIthon 2024",
@@ -202,7 +217,7 @@
     },
     {
       "name": "ChessNav",
-      "isActive": true,
+      "isActive": false,
       "description": "Custom chess evaluation bot using 3 criteria to evaluate a position with 88% accuracy.",
       "highlights": [
         "TODO"
