@@ -290,16 +290,6 @@
         "Criteria 3. King Safety -> use the hotmap to see how safe the king is based on the 8 surrounding squares",
         "Assign a score to each criteria for both colors, finding the difference to evaluate the position"
       ]
-    },
-    {
-      "name": "GlassNav",
-      "isActive": false,
-      "description": "Custom smart glasses with image, video and audio capturing features.",
-      "highlights": [
-        ""
-        
-
-      ]
     }
   ]
 }
