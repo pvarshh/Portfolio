@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Pranav Varshney",
-    "label": "Third Year CompSci and Stats Student",
+    "label": "Third Year CS and DS Student",
     "image": "/me_avatar.jpg",
     "email": "pvarsh@umich.edu",
     "phone": "+1 636-675-0940",
@@ -240,7 +240,7 @@
           "url": "http://www.eecs489.org/"
         },
         {
-          "name": "STATS 315: Deep Learning w/ TensorFlow",
+          "name": "DATASCI 315: Deep Learning I",
           "url": null
         }
       ]
