@@ -6,7 +6,7 @@
     "email": "pvarsh@umich.edu",
     "phone": "+1 636-675-0940",
     "url": "https://portfolio-pvarshhs-projects.vercel.app/",
-    "summary": "Passionate about the intersection between numbers and technology, specifically in ML, Trading, Networks and Distributed Systems. Curious about Astronomy, Law and Psychology as well.",
+    "summary": "Looking to pursue a Masters in Computer Science, Statistics or Machine Learning. Passionate about all things machine learning: MLE, MLOps, MLInfra and more. Specifically passional about ML's impact on society (education, trading, networks, crime, adtech) Curious about Astronomy, Law and Psychology.",
     "theme": "default",
     "location": {
       "address": "1929 Plymouth Rd",
@@ -117,8 +117,17 @@
   ],
   "research": [
     {
+      "name": "The University of Michigan",
+      "location_type": "On site",
+      "location": "Ann Arbor, Michigan",
+      "startDate": "Winter 2025",
+      "endDate": "",
+      "responsibilities": [
+        "Using ML to develop a self-operating computer network"
+      ]
+    },
+    {
       "name": "The Big-DIG Laboratory",
-      "position": "Research Assistant",
       "location_type": "On site",
       "location": "Ann Arbor, Michigan",
       "startDate": "4/23",
@@ -130,7 +139,6 @@
     },
     {
       "name": "The London Business School",
-      "position": "Research Assistant",
       "location_type": "Remote",
       "location": "London, England",
       "startDate": "1/23",
@@ -228,7 +236,7 @@
       ],
       "planned": [
         {
-          "name": "EECS 398: Applied DS + ML",
+          "name": "EECS 398: Practical Data Science",
           "url": "https://practicaldsc.org/"
         },
         {
@@ -263,7 +271,7 @@
       "isActive": false,
       "description": "Anomaly detection in Tunnel KPIs which provides insights into network behavior.",
       "highlights": [
-        "Runner-up for best project at Cisco's HackAIthon 2024",
+        "Runner-up for best project at Cisco's 2024 HackAIthon",
         "Analyze and explain anomalies across Tunnel KPIs using GenAI and LLMs.",
         "Forecast Future Problems for Proactive Remediation."
       ]
