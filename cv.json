@@ -268,13 +268,14 @@
     },
     {
       "name": "SD-WAN Analytics",
-      "isActive": false,
+      "isActive": true,
       "description": "Anomaly detection in Tunnel KPIs which provides insights into network behavior.",
       "highlights": [
         "Runner-up for best project at Cisco's 2024 HackAIthon",
         "Analyze and explain anomalies across Tunnel KPIs using GenAI and LLMs.",
         "Forecast Future Problems for Proactive Remediation."
-      ]
+      ],
+      "url": "https://drive.google.com/file/d/1_mltov4NCUmI8jBHTVUkiQSkP5UHAaJp/view?usp=sharing"
     },
     {
       "name": "ChessNav",
