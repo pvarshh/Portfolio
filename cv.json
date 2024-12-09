@@ -120,10 +120,10 @@
       "name": "The University of Michigan",
       "location_type": "On site",
       "location": "Ann Arbor, Michigan",
-      "startDate": "Winter 2025",
-      "endDate": "",
+      "startDate": "W25",
+      "endDate": "S26",
       "responsibilities": [
-        "Using ML to develop a self-operating computer network"
+        "Using ML to develop Self-Operating Computer Networks"
       ]
     },
     {
