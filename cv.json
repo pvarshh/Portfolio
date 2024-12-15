@@ -159,7 +159,7 @@
       "endDate": "05/2026",
       "courses": [
         {
-          "name": "COMPFOR 130 - Python Programming",
+          "name": "COMPFOR 131 - Python Programming",
           "url": null
         },
         {
@@ -187,15 +187,27 @@
           "url": "https://eecs281staff.github.io/eecs281.org/"
         },
         {
+          "name": "EECS 370 - Computer Organization",
+          "url": "https://eecs370.github.io/"
+        },
+        {
           "name": "EECS 376 - Theory of Computation",
           "url": "https://eecs376.org/"
+        },
+        {
+          "name": "EECS 484 - DBMS",
+          "url": null
+        },
+        {
+          "name": "EECS 485 - Web Systems",
+          "url": "https://eecs485.org/"
         },
         {
           "name": "STATS 250 - Intro to Statistics",
           "url": null
         },
         {
-          "name": "STATS 306 - Computational Statistics",
+          "name": "DATASCI 306 - Computational Statistics",
           "url": null
         },
         {
@@ -213,28 +225,13 @@
         {
           "name": "MATH 289 - Proofs II",
           "url": null
-        }
-      ],
-      "current":[
-        {
-          "name": "EECS 370 - Computer Organization",
-          "url": "https://eecs370.github.io/"
-        },
-        {
-          "name": "EECS 484 - DBMS",
-          "url": null
-        },
-        {
-          "name": "EECS 485 - Web Systems",
-          "url": "https://eecs485.org/"
         },
         {
           "name": "MATH 425 - Probability",
           "url": null
         }
-
       ],
-      "planned": [
+      "current":[
         {
           "name": "EECS 398: Practical Data Science",
           "url": "https://practicaldsc.org/"
@@ -249,6 +246,17 @@
         },
         {
           "name": "DATASCI 315: Deep Learning I",
+          "url": null
+        }
+      ],
+      "planned": [
+        {
+          "name": "MATH 215: Multivariable + Vector Calculus",
+          "url": null
+
+        },
+        {
+          "name": "MATH 217: Proof Based Linear Algebra",
           "url": null
         }
       ]

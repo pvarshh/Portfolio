@@ -32,7 +32,7 @@ import { education } from "@cv";
 						)}
 						{current && current.length > 0 && (
 							<div class="ml-7 md:ml-9">
-								<h4 class="mb-1 text-sm font-medium text-skin-base">Current Courses (F24):</h4>
+								<h4 class="mb-1 text-sm font-medium text-skin-base">Current Courses (W25):</h4>
 								<ul class="flex flex-col space-y-1 text-sm text-skin-muted">
 									{current.map((course) => (
 										(course.url != null) ? ( <li> • <a href={course.url} title={`Ver ${course.name}`} target="_blank">{course.name}</a> </li> ) : ( <li> • {course.name} </li> )
@@ -42,7 +42,7 @@ import { education } from "@cv";
 						)}
 						{planned && planned.length > 0 && (
 							<div class="ml-7 md:ml-9">
-								<h4 class="mb-1 text-sm font-medium text-skin-base">Planned Courses (W25):</h4>
+								<h4 class="mb-1 text-sm font-medium text-skin-base">Planned Courses (S25):</h4>
 								<ul class="flex flex-col space-y-1 text-sm text-skin-muted">
 									{planned.map((course) => (
 										(course.url != null) ? ( <li> • <a href={course.url} title={`Ver ${course.name}`} target="_blank">{course.name}</a> </li> ) : ( <li> • {course.name} </li> )
