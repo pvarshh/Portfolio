@@ -36,7 +36,7 @@
       "location": "Ann Arbor, Michigan",
       "url": "https://lsa.umich.edu/computingfor/",
       "startDate": "8/24",
-      "endDate": "Current",
+      "endDate": "12/24",
       "responsibilities": [
         "Overhauled the course's Python curriculum, adding 3 new projects and 2 new lectures to the course, increasing student engagement by 20%",
         "Developed a Python script to automate assignment grading, reducing grading time by 99%"
@@ -120,8 +120,8 @@
       "name": "The University of Michigan",
       "location_type": "On site",
       "location": "Ann Arbor, Michigan",
-      "startDate": "W25",
-      "endDate": "S26",
+      "startDate": "1/25",
+      "endDate": "Current",
       "responsibilities": [
         "Using ML to develop Self-Operating Computer Networks"
       ]
