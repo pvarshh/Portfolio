@@ -153,7 +153,7 @@
     {
       "institution": "The University of Michigan",
       "url": "https://umich.edu/",
-      "area": "Computer Science, Statistics",
+      "area": "Computer Science, Data Science",
       "studyType": "Bachelor of Science",
       "startDate": "08/2022",
       "endDate": "05/2026",
@@ -229,7 +229,7 @@
           "url": "https://practicaldsc.org/"
         },
         {
-          "name": "EECS 482 + 498: Advanced OS",
+          "name": "EECS 479: Quantum Computing",
           "url": null
         },
         {
@@ -237,18 +237,41 @@
           "url": "http://www.eecs489.org/"
         },
         {
-          "name": "DATASCI 315: Deep Learning I",
-          "url": null
+          "name": "EECS 491: Distributed Systems",
+          "url": "https://www.eecs.umich.edu/courses/eecs479/"
         }
       ],
       "planned": [
         {
           "name": "MATH 215: Multivariable + Vector Calculus",
           "url": null
-
         },
         {
           "name": "MATH 217: Proof Based Linear Algebra",
+          "url": null
+        },
+        {
+          "name": "EECS 445: Machine Learning",
+          "url": null
+        },
+        {
+          "name": "EECS 449: Conversational AI",
+          "url": null
+        },
+        {
+          "name": "EECS 471: Parallel Programming w GPUs",
+          "url": null
+        },
+        {
+          "name": "EECS 482 + 498: Advanced OS",
+          "url": null
+        },
+        {
+          "name": "DATASCI 413: Linear Regression",
+          "url": null
+        },
+        {
+          "name": "STATS 485: Senior Capstone",
           "url": null
         }
       ]
@@ -259,10 +282,7 @@
     {
       "name": "Personal Portfolio",
       "isActive": true,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with AstroJS and Tailwind CSS"
-      ],
+      "description": "A personal website to showcase my experience in AstroJS and Tailwind CSS.",
       "url": "https://portfolio-pvarshhs-projects.vercel.app/",
       "github": "https://github.com/pvarshh/Portfolio"
     },
@@ -270,23 +290,12 @@
       "name": "SD-WAN Analytics",
       "isActive": true,
       "description": "Anomaly detection in Tunnel KPIs which provides insights into network behavior.",
-      "highlights": [
-        "Runner-up for best project at Cisco's 2024 HackAIthon",
-        "Analyze and explain anomalies across Tunnel KPIs using GenAI and LLMs.",
-        "Forecast Future Problems for Proactive Remediation."
-      ],
       "url": "https://drive.google.com/file/d/1_mltov4NCUmI8jBHTVUkiQSkP5UHAaJp/view?usp=sharing"
     },
     {
       "name": "ChessNav",
       "isActive": false,
-      "description": "Custom chess evaluation bot using 3 criteria to evaluate a position with 88% accuracy.",
-      "highlights": [
-        "Criteria 1. Material Imbalance -> simple calculation based on the material on the board for each piece",
-        "Criteria 2. Activity -> generate a hotmap of the board to see the squares controlled by each side",
-        "Criteria 3. King Safety -> use the hotmap to see how safe the king is based on the 8 surrounding squares",
-        "Assign a score to each criteria for both colors, finding the difference to evaluate the position"
-      ]
+      "description": "Custom chess evaluation bot with 88% positional analysis accuracy."
     }
   ]
 }

@@ -8,7 +8,7 @@ import { projects } from "@cv";
 
 <Section className={Astro.props.className} title="Projects">
 		{
-			projects.map(({ url, description, highlights, name, isActive, github }) => {
+			projects.map(({ url, description, name, isActive, github }) => {
 				return (
 					<div role="contentinfo" class="grid-span-1 ring-skin-muted relative flex flex-col rounded-md bg-skin-button-muted/50 p-5 shadow-sm ring-1">
 						<div class="flex items-center justify-between space-x-[10px]">
@@ -38,11 +38,6 @@ import { projects } from "@cv";
 						</div>
 
 						<p class="py-3 text-sm text-skin-base">{description}</p>
-						<ul class="mt-1 text-sm text-skin-muted">
-							{highlights.map((highlight) => {
-								return <li>{highlight}</li>;
-							})}
-						</ul>
 					</div>
 				);
 			})
