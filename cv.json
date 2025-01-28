@@ -59,21 +59,6 @@
       ]
     },
     {
-      "name": "Outlier AI",
-      "position": "Data Science Intern",
-      "location_type": "Remote",
-      "location": "San Francisco, California",
-      "url": "https://outlier.ai/",
-      "startDate": "1/24",
-      "endDate": "5/24",
-      "responsibilities": [
-        "Maintained scalable data pipelines in Python and SQL to support user analytics",
-        "Performed macro optimizations on the data pipeline to reduce runtime by 30%",
-        "Constructed visual aids in Python, R and PowerBI, highligthing trends in common search queries, improving the search algorimth based on Google's PageRank system", 
-        "Documented company's data models and ETL processes for investors, clarifying technical details and design decisions for new business strategies"
-      ]
-    },
-    {
       "name": "The Michigan Daily",
       "position": "Web Developer",
       "location_type": "On site",
