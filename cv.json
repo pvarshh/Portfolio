@@ -159,59 +159,43 @@
       "endDate": "05/2026",
       "courses": [
         {
-          "name": "COMPFOR 131 - Python Programming",
-          "url": null
-        },
-        {
-          "name": "PHIL 340 - AI Ethics",
-          "url": null
-        },
-        {
-          "name": "EECS 183 - Inro to CS",
-          "url": "https://eecs183.github.io/eecs183.org/"
-        },
-        {
-          "name": "EECS 201 - Linux Programming",
-          "url": "https://www.eecs.umich.edu/courses/eecs201/"
-        },
-        {
-          "name": "EECS 203 - Discrete Math",
-          "url": null
-        },
-        {
-          "name": "EECS 280 - C++ Programming",
-          "url": "https://eecs280.org/"
-        },
-        {
-          "name": "EECS 281 - Data Structions + Algorithms",
-          "url": "https://eecs281staff.github.io/eecs281.org/"
-        },
-        {
-          "name": "EECS 370 - Computer Organization",
-          "url": "https://eecs370.github.io/"
-        },
-        {
-          "name": "EECS 376 - Theory of Computation",
-          "url": "https://eecs376.org/"
+          "name": "EECS 485 - Web Systems",
+          "url": "https://eecs485.org/"
         },
         {
           "name": "EECS 484 - DBMS",
           "url": null
         },
         {
-          "name": "EECS 485 - Web Systems",
-          "url": "https://eecs485.org/"
+          "name": "EECS 376 - Theory of Computation",
+          "url": "https://eecs376.org/"
         },
         {
-          "name": "STATS 250 - Intro to Statistics",
+          "name": "EECS 370 - Computer Organization",
+          "url": "https://eecs370.github.io/"
+        },
+        {
+          "name": "EECS 281 - Data Structions + Algorithms",
+          "url": "https://eecs281staff.github.io/eecs281.org/"
+        },
+        {
+          "name": "EECS 280 - C++ Programming",
+          "url": "https://eecs280.org/"
+        },
+        {
+          "name": "EECS 203 - Discrete Math",
           "url": null
         },
         {
-          "name": "DATASCI 306 - Computational Statistics",
-          "url": null
+          "name": "EECS 201 - Linux Programming",
+          "url": "https://www.eecs.umich.edu/courses/eecs201/"
         },
         {
-          "name": "MATH 115 - Calculus I",
+          "name": "EECS 183 - Inro to CS",
+          "url": "https://eecs183.github.io/eecs183.org/"
+        },
+        {
+          "name": "MATH 425 - Probability",
           "url": null
         },
         {
@@ -219,7 +203,23 @@
           "url": null
         },
         {
-          "name": "MATH 425 - Probability",
+          "name": "MATH 115 - Calculus I",
+          "url": null
+        },
+        {
+          "name": "DATASCI 306 - Computational Statistics",
+          "url": null
+        },
+        {
+          "name": "STATS 250 - Intro to Statistics",
+          "url": null
+        },
+        {
+          "name": "COMPFOR 131 - Python Programming",
+          "url": null
+        },
+        {
+          "name": "PHIL 340 - AI Ethics",
           "url": null
         }
       ],
@@ -230,7 +230,7 @@
         },
         {
           "name": "EECS 479: Quantum Computing",
-          "url": null
+          "url": "https://www.eecs.umich.edu/courses/eecs479/"
         },
         {
           "name": "EECS 489: Computer Networks",
@@ -238,20 +238,12 @@
         },
         {
           "name": "EECS 491: Distributed Systems",
-          "url": "https://www.eecs.umich.edu/courses/eecs479/"
+          "url": null
         }
       ],
       "planned": [
         {
-          "name": "MATH 215: Multivariable + Vector Calculus",
-          "url": null
-        },
-        {
-          "name": "MATH 217: Proof Based Linear Algebra",
-          "url": null
-        },
-        {
-          "name": "EECS 445: Machine Learning",
+          "name": "EECS 471: Parallel Programming w GPUs",
           "url": null
         },
         {
@@ -259,11 +251,23 @@
           "url": null
         },
         {
-          "name": "EECS 471: Parallel Programming w GPUs",
+          "name": "EECS 445: Machine Learning",
           "url": null
         },
         {
-          "name": "EECS 482 + 498: Advanced OS",
+          "name": "EECS 442: Computer Vision",
+          "url": null
+        },
+        {
+          "name": "MATH 217: Proof Based Linear Algebra",
+          "url": null
+        },
+        {
+          "name": "MATH 215: Multivariable + Vector Calculus",
+          "url": null
+        },
+        {
+          "name": "DATASCI 415: Deep Learning",
           "url": null
         },
         {
