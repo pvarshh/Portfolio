@@ -228,6 +228,10 @@
       ],
       "planned": [
         {
+          "name": "EECS 553: Mathematical Machine Learning",
+          "url": null
+        },
+        {
           "name": "EECS 471: Parallel Programming w GPUs",
           "url": null
         },
@@ -249,10 +253,6 @@
         },
         {
           "name": "MATH 215: Multivariable + Vector Calculus",
-          "url": null
-        },
-        {
-          "name": "DATASCI 415: Deep Learning",
           "url": null
         },
         {
