@@ -198,14 +198,6 @@
         {
           "name": "STATS 250 - Intro to Statistics",
           "url": null
-        },
-        {
-          "name": "COMPFOR 131 - Python Programming",
-          "url": null
-        },
-        {
-          "name": "PHIL 340 - AI Ethics",
-          "url": null
         }
       ],
       "current":[
@@ -228,7 +220,7 @@
       ],
       "planned": [
         {
-          "name": "EECS 553: Mathematical Machine Learning",
+          "name": "EECS 553: Graduate Machine Learning",
           "url": null
         },
         {
