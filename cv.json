@@ -30,6 +30,18 @@
   },
   "work": [
     {
+      "name": "Amazon Web Services",
+      "position": "Incoming Software Developer Engineering Intern (AI/ML)",
+      "location_type": "Remote",
+      "location": "Bellevue, Washington",
+      "url": "https://aws.amazon.com/sagemaker/",
+      "startDate": "5/25",
+      "endDate": "8/25",
+      "responsibilities": [
+        "SageMaker: Distributed Inference Models"
+      ]
+    },
+    {
       "name": "The University of Michigan",
       "position": "COMPFOR 131 Instructional Assistant",
       "location_type": "On site",
@@ -78,8 +90,8 @@
       "location_type": "Remote",
       "location": "Newark, California",
       "url": "https://www.ratnaglobaltech.com/",
-      "startDate": "6/23",
-      "endDate": "9/23",
+      "startDate": "5/23",
+      "endDate": "8/23",
       "responsibilities": [
         "Spearheaded the development of a car rental website for clients, using React and Node to build a responsive, user-friendly and scalable platform",
         "Built a custom chatbot using OpenAI's GPT-3 to answer customer queries, automating naive customer support tasks and saving 5-10 hours of work per week",
