@@ -30,18 +30,6 @@
   },
   "work": [
     {
-      "name": "Amazon",
-      "position": "Incoming Software Developer Engineering Intern (AI/ML)",
-      "location_type": "Remote",
-      "location": "Bellevue, Washington",
-      "url": "https://aws.amazon.com/sagemaker/",
-      "startDate": "5/25",
-      "endDate": "8/25",
-      "responsibilities": [
-        "SageMaker: Distributed Inference Models"
-      ]
-    },
-    {
       "name": "The University of Michigan",
       "position": "COMPFOR 131 Instructional Assistant",
       "location_type": "On site",
