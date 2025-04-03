@@ -30,6 +30,18 @@
   },
   "work": [
     {
+      "name": "Amazon Web Services",
+      "position": "Software Developer Intern",
+      "location_type": "On site",
+      "location": "Bellevue, Washington",
+      "url": "https://aws.amazon.com/sagemaker/?trk=8987dd52-6f33-407a-b89b-a7ba025c913c&sc_channel=ps&ef_id=CjwKCAjw47i_BhBTEiwAaJfPpiUjhDflk5UR7320h-KZEKHx7qIwtRNuKfoEIleehuySWxZFI8qs0xoCmHsQAvD_BwE:G:s&s_kwcid=AL!4422!3!532502995192!e!!g!!amazon%20sagemaker!11206038603!113600690367&gclid=CjwKCAjw47i_BhBTEiwAaJfPpiUjhDflk5UR7320h-KZEKHx7qIwtRNuKfoEIleehuySWxZFI8qs0xoCmHsQAvD_BwE",
+      "startDate": "5/25",
+      "endDate": "7/25",
+      "responsibilities": [
+        "Incoming AI/ML Dev on Distributed Inference Model"
+      ]
+    },
+    {
       "name": "The University of Michigan",
       "position": "COMPFOR 131 Instructional Assistant",
       "location_type": "On site",
