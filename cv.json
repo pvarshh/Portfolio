@@ -292,47 +292,47 @@
     }
   ],
 
-  "projects": [
+    "projects": [
     {
       "name": "Personal Portfolio",
       "isActive": true,
-      "description": "Built a fast, responsive portfolio site using AstroJS and Tailwind CSS.",
+      "description": "Responsive site built with AstroJS and Tailwind.",
       "url": "https://portfolio-pvarshhs-projects.vercel.app/",
       "github": "https://github.com/pvarshh/Portfolio"
     },
     {
       "name": "SD-WAN Analytics",
       "isActive": true,
-      "description": "Used AI to detect network anomalies and automate root cause analysis.",
+      "description": "AI-driven network anomaly detection and tracing.",
       "url": "https://drive.google.com/file/d/1_mltov4NCUmI8jBHTVUkiQSkP5UHAaJp/view?usp=sharing"
     },
     {
-      "name": "Financial Applications of Quantum Machine Learning",
+      "name": "Quantum ML for Finance",
       "isActive": true,
-      "description": "Reviewed QML methods for finance, including variational and hybrid models.",
+      "description": "Surveyed QML methods for financial modeling.",
       "url": "https://drive.google.com/file/d/1mnfNZH0N57Gt-JZaX7KsQRCpI5NpxG7X/view?usp=drive_link"
     },
     {
       "name": "Tennis Winner Predictor",
       "isActive": true,
-      "description": "Built a 92% accurate ATP match predictor using ML and 75k-match dataset.",
+      "description": "92% accurate ATP match predictor using ML.",
       "url": "https://pvarshh.github.io/Tennis-Prediction-Model/",
       "github": "https://github.com/pvarshh/Tennis-Prediction-Model/"
     },
     {
-      "name": "Distributed MapReduce Framework",
+      "name": "MapReduce Framework",
       "isActive": false,
-      "description": "Implemented fault-tolerant MapReduce with TCP/UDP for task resilience."
+      "description": "Built a fault-tolerant MapReduce in Python."
     },
     {
-      "name": "Chess Evaluation Engine",
+      "name": "Chess Engine",
       "isActive": false,
-      "description": "Created an 88% accurate chess engine with heatmap-based visualization."
+      "description": "88% accurate engine with bitboard heatmaps."
     },
     {
-      "name": "Custom Smart Glasses",
+      "name": "Smart Glasses",
       "isActive": false,
-      "description": "Smart glasses with Raspberry Pi and GroqAI for real-time AI feedback."
+      "description": "RPi-based glasses with real-time AI feedback."
     }
   ]
 }
