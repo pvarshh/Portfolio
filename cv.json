@@ -296,20 +296,43 @@
     {
       "name": "Personal Portfolio",
       "isActive": true,
-      "description": "A personal website to showcase my experience in AstroJS and Tailwind CSS.",
+      "description": "Developed a personal website using AstroJS and Tailwind CSS to showcase my projects, technical experience, and professional background. The site highlights responsive design, fast performance, and a clean, modern UI built with component-based architecture.",
       "url": "https://portfolio-pvarshhs-projects.vercel.app/",
       "github": "https://github.com/pvarshh/Portfolio"
     },
     {
       "name": "SD-WAN Analytics",
       "isActive": true,
-      "description": "Anomaly detection in Tunnel KPIs which provides insights into network behavior.",
+      "description": "Enhanced tunnel KPI anomaly detection and network issue resolution by applying AI to analyze app usage, device health, and NWPI for root cause analysis and anomaly remediation. Designed forecasting models and automated NWPI trace scheduling with ThousandEyes to enable proactive network repair.",
       "url": "https://drive.google.com/file/d/1_mltov4NCUmI8jBHTVUkiQSkP5UHAaJp/view?usp=sharing"
     },
     {
-      "name": "ChessNav",
+      "name": "Financial Applications of Quantum Machine Learning",
+      "isActive": true,
+      "description": "Authored a literature review on Quantum Machine Learning, analyzing variational circuits, quantum kernels, and hybrid model architectures with a focus on performance and scalability in applications like portfolio optimization, fraud detection, and forecasting. Proposed quantum-classical workflows to address challenges in data encoding and training stability.",
+      "url": "https://drive.google.com/file/d/1mnfNZH0N57Gt-JZaX7KsQRCpI5NpxG7X/view?usp=drive_link"
+    },
+    {
+      "name": "Tennis Winner Predictor",
+      "isActive": true,
+      "description": "Built a 92% accurate prediction model using logistic regression and gradient boosting on 75k ATP matches (2000–2024), leveraging features like ranking gaps, head-to-head ratios, surface type, and tournament context. Applied data imputation, hyperparameter tuning, and visualizations for exploratory analysis and model optimization.",
+      "url": "https://pvarshh.github.io/Tennis-Prediction-Model/",
+      "github": "https://github.com/pvarshh/Tennis-Prediction-Model/"
+    },
+    {
+      "name": "Distributed MapReduce Framework",
       "isActive": false,
-      "description": "Custom chess evaluation bot with 88% positional analysis accuracy."
+      "description": "Designed and implemented a fault-tolerant MapReduce framework in Python, featuring concurrent and distributed task execution. Utilized TCP for reliable data transfer and UDP heartbeats to maintain resilient communication between managers and workers."
+    },
+    {
+      "name": "Chess Evaluation Engine",
+      "isActive": false,
+      "description": "Built a chess evaluation engine with 88% accuracy by quantifying material imbalance, piece activity, and king safety; developed a bitboard-based heatmap to visualize square control and compute positional danger."
+    },
+    {
+      "name": "Custom Smart Glasses",
+      "isActive": false,
+      "description": "Built smart glasses with image, video, and audio capture capabilities, leveraging Raspberry Pi, OpenCV, and PyAudio for multi-modal input. Integrated GroqAI to deliver real-time AI-powered feedback directly to users."
     }
   ]
 }
