@@ -130,7 +130,7 @@
       "location_type": "On site",
       "location": "Ann Arbor, Michigan",
       "startDate": "1/25",
-      "endDate": "Curre4/25nt",
+      "endDate": "4/25",
       "responsibilities": [
         "Building twin platform using BatFish & Veriflow to analyze 500+ network snapshots monthly as DSLs for learning",
         "Developing a framework that automates network snapshots, increasing dataset size by 250%, enhancing scalability"
