@@ -296,43 +296,43 @@
     {
       "name": "Personal Portfolio",
       "isActive": true,
-      "description": "Built a personal website using AstroJS and Tailwind CSS to showcase my projects and experience through a fast, responsive, and modern UI with component-based architecture.",
+      "description": "Built a fast, responsive portfolio site using AstroJS and Tailwind CSS.",
       "url": "https://portfolio-pvarshhs-projects.vercel.app/",
       "github": "https://github.com/pvarshh/Portfolio"
     },
     {
       "name": "SD-WAN Analytics",
       "isActive": true,
-      "description": "Used AI to detect tunnel KPI anomalies, automate NWPI tracing with ThousandEyes, and enable proactive network issue resolution through forecasting and root cause analysis.",
+      "description": "Used AI to detect network anomalies and automate root cause analysis.",
       "url": "https://drive.google.com/file/d/1_mltov4NCUmI8jBHTVUkiQSkP5UHAaJp/view?usp=sharing"
     },
     {
       "name": "Financial Applications of Quantum Machine Learning",
       "isActive": true,
-      "description": "Authored a QML review analyzing variational circuits, quantum kernels, and hybrid models for scalable use in finance and forecasting..",
+      "description": "Reviewed QML methods for finance, including variational and hybrid models.",
       "url": "https://drive.google.com/file/d/1mnfNZH0N57Gt-JZaX7KsQRCpI5NpxG7X/view?usp=drive_link"
     },
     {
       "name": "Tennis Winner Predictor",
       "isActive": true,
-      "description": "Built a 92% accurate ATP match predictor using logistic regression and gradient boosting, with feature engineering, tuning, and EDA on 75k matches.",
+      "description": "Built a 92% accurate ATP match predictor using ML and 75k-match dataset.",
       "url": "https://pvarshh.github.io/Tennis-Prediction-Model/",
       "github": "https://github.com/pvarshh/Tennis-Prediction-Model/"
     },
     {
       "name": "Distributed MapReduce Framework",
       "isActive": false,
-      "description": "Built a fault-tolerant Python MapReduce framework with TCP data transfer and UDP heartbeats for resilient task execution."
+      "description": "Implemented fault-tolerant MapReduce with TCP/UDP for task resilience."
     },
     {
       "name": "Chess Evaluation Engine",
       "isActive": false,
-      "description": "Built an 88% accurate chess engine using material, activity, and king safety metrics with bitboard-based heatmap visualization."
+      "description": "Created an 88% accurate chess engine with heatmap-based visualization."
     },
     {
       "name": "Custom Smart Glasses",
       "isActive": false,
-      "description": "Built smart glasses with multi-modal capture using Raspberry Pi and integrated GroqAI for real-time AI feedback."
+      "description": "Smart glasses with Raspberry Pi and GroqAI for real-time AI feedback."
     }
   ]
 }
