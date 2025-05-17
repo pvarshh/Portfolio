@@ -230,6 +230,24 @@
           "url": null
         }
       ],
+      "current": [
+        {
+          "name": "EECS 598: Graduate Quantum Computing",
+          "url": null
+        },
+        {
+          "name": "EECS 497: Human Centered Software",
+          "url": null
+        },
+        {
+          "name": "EECS 445: Machine Learning",
+          "url": null
+        },
+        {
+          "name": "DATASCI 413: Linear Regression",
+          "url": null
+        }
+      ],
       "planned": [
         {
           "name": "EECS 553: Graduate Machine Learning",
@@ -244,10 +262,6 @@
           "url": null
         },
         {
-          "name": "EECS 445: Machine Learning",
-          "url": null
-        },
-        {
           "name": "EECS 442: Computer Vision",
           "url": null
         },
@@ -257,10 +271,6 @@
         },
         {
           "name": "MATH 215: Multivariable + Vector Calculus",
-          "url": null
-        },
-        {
-          "name": "DATASCI 413: Linear Regression",
           "url": null
         },
         {
