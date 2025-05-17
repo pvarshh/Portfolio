@@ -126,6 +126,17 @@
   ],
   "research": [
     {
+      "name": "The Liu Laboratory (The University of Michigan)",
+      "location_type": "On site",
+      "location": "Ann Arbor, Michigan",
+      "startDate": "1/25",
+      "endDate": "Curre4/25nt",
+      "responsibilities": [
+        "Building twin platform using BatFish & Veriflow to analyze 500+ network snapshots monthly as DSLs for learning",
+        "Developing a framework that automates network snapshots, increasing dataset size by 250%, enhancing scalability"
+      ]
+    },
+    {
       "name": "The Big-DIG Laboratory",
       "location_type": "On site",
       "location": "Ann Arbor, Michigan",
