@@ -296,43 +296,43 @@
     {
       "name": "Personal Portfolio",
       "isActive": true,
-      "description": "Developed a personal website using AstroJS and Tailwind CSS to showcase my projects, technical experience, and professional background. The site highlights responsive design, fast performance, and a clean, modern UI built with component-based architecture.",
+      "description": "Built a personal website using AstroJS and Tailwind CSS to showcase my projects and experience through a fast, responsive, and modern UI with component-based architecture.",
       "url": "https://portfolio-pvarshhs-projects.vercel.app/",
       "github": "https://github.com/pvarshh/Portfolio"
     },
     {
       "name": "SD-WAN Analytics",
       "isActive": true,
-      "description": "Enhanced tunnel KPI anomaly detection and network issue resolution by applying AI to analyze app usage, device health, and NWPI for root cause analysis and anomaly remediation. Designed forecasting models and automated NWPI trace scheduling with ThousandEyes to enable proactive network repair.",
+      "description": "Used AI to detect tunnel KPI anomalies, automate NWPI tracing with ThousandEyes, and enable proactive network issue resolution through forecasting and root cause analysis.",
       "url": "https://drive.google.com/file/d/1_mltov4NCUmI8jBHTVUkiQSkP5UHAaJp/view?usp=sharing"
     },
     {
       "name": "Financial Applications of Quantum Machine Learning",
       "isActive": true,
-      "description": "Authored a literature review on Quantum Machine Learning, analyzing variational circuits, quantum kernels, and hybrid model architectures with a focus on performance and scalability in applications like portfolio optimization, fraud detection, and forecasting. Proposed quantum-classical workflows to address challenges in data encoding and training stability.",
+      "description": "Authored a QML review analyzing variational circuits, quantum kernels, and hybrid models for scalable use in finance and forecasting..",
       "url": "https://drive.google.com/file/d/1mnfNZH0N57Gt-JZaX7KsQRCpI5NpxG7X/view?usp=drive_link"
     },
     {
       "name": "Tennis Winner Predictor",
       "isActive": true,
-      "description": "Built a 92% accurate prediction model using logistic regression and gradient boosting on 75k ATP matches (2000–2024), leveraging features like ranking gaps, head-to-head ratios, surface type, and tournament context. Applied data imputation, hyperparameter tuning, and visualizations for exploratory analysis and model optimization.",
+      "description": "Built a 92% accurate ATP match predictor using logistic regression and gradient boosting, with feature engineering, tuning, and EDA on 75k matches.",
       "url": "https://pvarshh.github.io/Tennis-Prediction-Model/",
       "github": "https://github.com/pvarshh/Tennis-Prediction-Model/"
     },
     {
       "name": "Distributed MapReduce Framework",
       "isActive": false,
-      "description": "Designed and implemented a fault-tolerant MapReduce framework in Python, featuring concurrent and distributed task execution. Utilized TCP for reliable data transfer and UDP heartbeats to maintain resilient communication between managers and workers."
+      "description": "Built a fault-tolerant Python MapReduce framework with TCP data transfer and UDP heartbeats for resilient task execution."
     },
     {
       "name": "Chess Evaluation Engine",
       "isActive": false,
-      "description": "Built a chess evaluation engine with 88% accuracy by quantifying material imbalance, piece activity, and king safety; developed a bitboard-based heatmap to visualize square control and compute positional danger."
+      "description": "Built an 88% accurate chess engine using material, activity, and king safety metrics with bitboard-based heatmap visualization."
     },
     {
       "name": "Custom Smart Glasses",
       "isActive": false,
-      "description": "Built smart glasses with image, video, and audio capture capabilities, leveraging Raspberry Pi, OpenCV, and PyAudio for multi-modal input. Integrated GroqAI to deliver real-time AI-powered feedback directly to users."
+      "description": "Built smart glasses with multi-modal capture using Raspberry Pi and integrated GroqAI for real-time AI feedback."
     }
   ]
 }
