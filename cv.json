@@ -30,6 +30,18 @@
   },
   "work": [
     {
+      "name": "Scale AI",
+      "position": "Incoming Software Engineering Intern",
+      "location_type": "On site",
+      "location": "San Francisco, California",
+      "url": "https://scale.com/",
+      "startDate": "8/25",
+      "endDate": "11/25",
+      "responsibilities": [
+        "Interning fall 2025 on the Scale AI Generative AI, Technical Advisor team"
+      ]
+    },
+    {
       "name": "Amazon Web Services",
       "position": "Software Developer Intern",
       "location_type": "On site",
@@ -38,7 +50,7 @@
       "startDate": "5/25",
       "endDate": "7/25",
       "responsibilities": [
-        "Incoming AI/ML Dev on Distributed Inference Model"
+        "Interning summer 2025 on the Amazon SageMaker AI and Bedrock AI, Infrastructure team"
       ]
     },
     {
@@ -146,12 +158,28 @@
       "endDate": "05/2026",
       "courses": [
         {
+          "name": "EECS 491: Distributed Systems",
+          "url": null
+        },
+        {
+          "name": "EECS 489: Computer Networks",
+          "url": "http://www.eecs489.org/"
+        },
+        {
           "name": "EECS 485 - Web Systems",
           "url": "https://eecs485.org/"
         },
         {
           "name": "EECS 484 - DBMS",
           "url": null
+        },
+        {
+          "name": "EECS 479: Quantum Computing",
+          "url": "https://www.eecs.umich.edu/courses/eecs479/"
+        },
+        {
+          "name": "EECS 398: Practical Data Science",
+          "url": "https://practicaldsc.org/"
         },
         {
           "name": "EECS 376 - Theory of Computation",
@@ -199,24 +227,6 @@
         },
         {
           "name": "STATS 250 - Intro to Statistics",
-          "url": null
-        }
-      ],
-      "current":[
-        {
-          "name": "EECS 398: Practical Data Science",
-          "url": "https://practicaldsc.org/"
-        },
-        {
-          "name": "EECS 479: Quantum Computing",
-          "url": "https://www.eecs.umich.edu/courses/eecs479/"
-        },
-        {
-          "name": "EECS 489: Computer Networks",
-          "url": "http://www.eecs489.org/"
-        },
-        {
-          "name": "EECS 491: Distributed Systems",
           "url": null
         }
       ],
