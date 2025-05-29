@@ -30,18 +30,6 @@
   },
   "work": [
     {
-      "name": "Scale AI",
-      "position": "Incoming Software Engineering Intern",
-      "location_type": "On site",
-      "location": "San Francisco, California",
-      "url": "https://scale.com/",
-      "startDate": "8/25",
-      "endDate": "11/25",
-      "responsibilities": [
-        "Interning fall 2025 on the Scale AI Generative AI, Technical Advisor team"
-      ]
-    },
-    {
       "name": "Amazon Web Services",
       "position": "Software Developer Intern",
       "location_type": "On site",
@@ -273,7 +261,7 @@
       "url": "https://drive.google.com/file/d/1_mltov4NCUmI8jBHTVUkiQSkP5UHAaJp/view?usp=sharing"
     },
     {
-      "name": "Financial Applications of Quantum Machine Learning",
+      "name": "QML in Finance",
       "isActive": true,
       "description": "Reviewed QML methods for finance, including variational and hybrid models.",
       "url": "https://drive.google.com/file/d/1mnfNZH0N57Gt-JZaX7KsQRCpI5NpxG7X/view?usp=drive_link"
