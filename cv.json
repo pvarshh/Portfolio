@@ -30,6 +30,18 @@
   },
   "work": [
     {
+      "name": "Scale AI",
+      "position": "Software Engineer Intern",
+      "location_type": "Remote",
+      "location": "Scale AI",
+      "url": "https://scale.com/",
+      "startDate": "7/25",
+      "endDate": "9/25",
+      "responsibilities": [
+        "Interning Fall 2025 on the Scale AI, Technical Advisor team"
+      ]
+    },
+    {
       "name": "Amazon Web Services",
       "position": "Software Developer Intern",
       "location_type": "On site",
