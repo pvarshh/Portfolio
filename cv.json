@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Pranav Varshney",
-    "label": "Third Year CS and DS Student",
+    "label": "CS and DS Student",
     "image": "/me_avatar.jpg",
     "email": "pvarsh@umich.edu",
     "phone": "+1 636-675-0940",
@@ -38,7 +38,7 @@
       "startDate": "7/25",
       "endDate": "9/25",
       "responsibilities": [
-        "Interning Fall 2025 on the Scale AI, Technical Advisor team"
+        "Interning Fall 2025 on the Generative AI, LLM Benchmarking team"
       ]
     },
     {
@@ -244,6 +244,10 @@
       "current": [
         {
           "name": "EECS 497: Human Centered Software",
+          "url": null
+        },
+        {
+          "name": "EECS 471: Applied Parallel Programming with GPUs",
           "url": null
         },
         {
