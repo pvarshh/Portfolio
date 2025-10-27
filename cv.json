@@ -30,15 +30,27 @@
   },
   "work": [
     {
-      "name": "Scale AI",
+      "name": "Uber",
       "position": "Software Engineer Intern",
+      "location_type": "On Site",
+      "location": "San Francisco, California",
+      "url": "https://www.uber.com/",
+      "startDate": "1/26",
+      "endDate": "4/26",
+      "responsibilities": [
+        "Interning Winter 2026"
+      ]
+    },
+    {
+      "name": "Scale AI",
+      "position": "Generative AI Intern",
       "location_type": "Remote",
-      "location": "Scale AI",
+      "location": "San Francisco, California",
       "url": "https://scale.com/",
       "startDate": "7/25",
       "endDate": "9/25",
       "responsibilities": [
-        "Interning Fall 2025 on the Generative AI, LLM Benchmarking team"
+        "Interned Fall 2025 on Technical Advising"
       ]
     },
     {
@@ -50,7 +62,7 @@
       "startDate": "5/25",
       "endDate": "7/25",
       "responsibilities": [
-        "Interning summer 2025 on the Amazon SageMaker AI and Bedrock AI, Infrastructure team"
+        "Interned Summer 2025 on Infrastructure Tooling"
       ]
     },
     {
@@ -62,8 +74,7 @@
       "startDate": "8/24",
       "endDate": "12/24",
       "responsibilities": [
-        "Overhauled the course's Python curriculum, adding 3 new projects and 2 new lectures to the course, increasing student engagement by 20%",
-        "Developed a Python script to automate assignment grading, reducing grading time by 99%"
+        "Taught students Python fundamentals"
       ]
     },
     {
@@ -75,11 +86,7 @@
       "startDate": "5/24",
       "endDate": "8/24",
       "responsibilities": [
-        "Piloted a change insights data pipeline in C# and SQL to populate UWM's data lake",
-        "Analyed and visualized data from the data lake to identify trends and insights",
-        "Reengineered UWM's archaic database organization to reduce data redundancy, pushing Google Cloud migration on an accelerated timeline",
-        "Launched a CRUD dashboard to monitor GCP costs and usage, flagging overuse and maintaining proper data handling etiquette",
-        "Initialized a decision tree model in Python with the Risk and Finance teams to classify written loans as success or failures, saving $20,000 in Q3 costs"
+        "Intered Summer 2024 on Data Optimizations"
       ]
     },
     {
@@ -91,9 +98,7 @@
       "startDate": "10/23",
       "endDate": "4/24",
       "responsibilities": [
-        "Lead the error handling and debugging processes for the website, fixing over 75 wesite errors, typos and other broken components to make user experience more enjoyable",
-        "Optimized website performancy by 44%, reducing page redircts and http requests, raising engagement length by 10%",
-        "Provided a framework for catching and fixing errors in the future, guiding new team members during onboarding"
+        "Worked on Error Handling and Optimizations"
       ]
     },
     {
@@ -105,9 +110,7 @@
       "startDate": "5/23",
       "endDate": "8/23",
       "responsibilities": [
-        "Spearheaded the development of a car rental website for clients, using React and Node to build a responsive, user-friendly and scalable platform",
-        "Built a custom chatbot using OpenAI's GPT-3 to answer customer queries, automating naive customer support tasks and saving 5-10 hours of work per week",
-        "Designed a database schema in PostgreSQL to store user data, reducing data redundancy and improving data retrieval times by 20%"
+        "Interned Summer 2023 on Customer Satisfaction Automation"
       ]
     },
     {
@@ -119,12 +122,22 @@
       "startDate": "5/19",
       "endDate": "6/22",
       "responsibilities": [
-        "Taught students complex math concpets like calculus I, II and basic statistics, helping them succeed in school subjects and standardized tests",
-        "Revamped the grading system for the center, leveraging technology to automate progress tracking and develop personalized feedback for students struggling in subjects"
+        "Taught students Math and English fundamentals"
       ]
     }
   ],
   "research": [
+    {
+      "name": "Precision Imaging × Artificial Intelligence Lab",
+      "location_type": "On site",
+      "location": "Ann Arbor, Michigan",
+      "startDate": "10/25",
+      "endDate": "Present",
+      "responsibilities": [
+        "Engineered models for automated segmentation of cardiac chambers and quantification of ejection fraction",
+        "Building a standardize CVD diagnosis platform,  targeting interoperability with portable ultrasound devices"
+      ]
+    },
     {
       "name": "The Liu Laboratory (The University of Michigan)",
       "location_type": "On site",
@@ -247,15 +260,11 @@
           "url": null
         },
         {
-          "name": "EECS 471: Applied Parallel Programming with GPUs",
-          "url": null
+          "name": "EECS 471: Parallel Programming w GPUs",
+          "url": "https://www.eecs.umich.edu/courses/eecs471/"
         },
         {
           "name": "EECS 445: Machine Learning",
-          "url": null
-        },
-        {
-          "name": "DATASCI 413: Linear Regression",
           "url": null
         }
       ]
@@ -277,32 +286,11 @@
       "url": "https://drive.google.com/file/d/1_mltov4NCUmI8jBHTVUkiQSkP5UHAaJp/view?usp=sharing"
     },
     {
-      "name": "QML in Finance",
-      "isActive": true,
-      "description": "Reviewed QML methods for finance, including variational and hybrid models.",
-      "url": "https://drive.google.com/file/d/1mnfNZH0N57Gt-JZaX7KsQRCpI5NpxG7X/view?usp=drive_link"
-    },
-    {
       "name": "Tennis Winner Predictor",
       "isActive": true,
       "description": "Built a 92% accurate ATP match predictor using ML and 75k-match dataset.",
       "url": "https://pvarshh.github.io/Tennis-Prediction-Model/",
       "github": "https://github.com/pvarshh/Tennis-Prediction-Model/"
-    },
-    {
-      "name": "Distributed MapReduce Framework",
-      "isActive": false,
-      "description": "Implemented fault-tolerant MapReduce with TCP/UDP for task resilience."
-    },
-    {
-      "name": "Chess Evaluation Engine",
-      "isActive": false,
-      "description": "Created an 88% accurate chess engine with heatmap-based visualization."
-    },
-    {
-      "name": "Custom Smart Glasses",
-      "isActive": false,
-      "description": "Smart glasses with Raspberry Pi and GroqAI for real-time AI feedback."
     }
   ]
 }
